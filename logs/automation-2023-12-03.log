@@ -1,0 +1,48 @@
+23:35:19.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:35:19.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:35:19.470 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:35:19.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:35:19.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:35:19.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:35:19.508 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:35:19.528 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:35:19.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:35:19.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:35:19.545 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:35:19.563 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:35:19.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:35:19.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:35:19.585 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:35:19.604 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:35:22.663 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:35:22.675 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:35:34.192 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:35:34.201 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:35:45.750 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:35:45.761 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:35:57.629 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+23:35:57.639 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+23:36:00.670 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:48:18.626 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\nagen\eclipse-workspace\opencart\grouping.xml"
+16:48:19.462 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nagen\eclipse-workspace\opencart\grouping.xml
+
+16:48:35.107 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+16:48:35.107 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+16:48:35.506 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+16:48:36.161 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+16:48:36.170 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+16:48:37.873 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+16:48:37.977 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+16:49:27.122 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\nagen\eclipse-workspace\opencart\grouping.xml"
+16:49:27.600 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nagen\eclipse-workspace\opencart\grouping.xml
+
+16:49:35.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****starting TC_001_AccountRegistrationTest  *****
+16:49:35.922 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs
+16:49:36.078 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked MyAccount
+16:49:37.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked Registration
+16:49:37.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - enter customer details
+16:49:38.380 [main] INFO  testCases.TC_001_AccountRegistrationTest - click continue
+16:49:39.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed...
+16:49:39.517 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
